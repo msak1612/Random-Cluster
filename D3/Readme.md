@@ -3,6 +3,6 @@
 
 
 # myStyle.css
-
+Stylesheet for rendering data on webpage.
 
 # index.html
